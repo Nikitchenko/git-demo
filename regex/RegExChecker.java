@@ -3,9 +3,7 @@ package regex;
 /**
  * Task1 - Is in the code below.
  * Task2 - Is in the code below.
- * Task3:  Refactor existing step definitions to use regular expressions where it is applicable -- Not implemented, no suitable options found.
  * Task4 - Is in the code below.
- * Task5:  Complete regex tasks - https://regexone.com/  -- ScreenShots are added in the Lern directly.
  */
 
 import java.util.StringJoiner;
